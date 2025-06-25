@@ -40,5 +40,5 @@ A simple and beautiful weather dashboard built using **Python** and **Streamlit*
 
 1. **Clone the repository**
 ```bash
-git clone [https://github.com/your-username/weather-dashboard.git](https://github.com/manoj11005/Weather-App/blob/main/README.md)
+git clone (https://github.com/manoj11005/Weather-App/blob/main/README.md)
 cd weather-dashboard
