@@ -1,2 +1,2 @@
 # config.py
-API_KEY = "your_openweathermap_api_key_here"
+API_KEY = "298f376d5b70ef45874b03f6a029dc6b"
