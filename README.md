@@ -1,4 +1,4 @@
-# Weather-App
+# Weather_dashboard
 
 
 A simple and beautiful weather dashboard built using **Python** and **Streamlit**. It fetches real-time weather data from the **OpenWeatherMap API** and displays it in a user-friendly interface. Perfect for anyone looking to learn about APIs, Streamlit, and real-world Python projects.
