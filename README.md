@@ -19,6 +19,11 @@ A simple and beautiful weather dashboard built using **Python** and **Streamlit*
 
 ---
 
+
+
+
+
+
 ## 🖼️ Screenshot
 
 >
